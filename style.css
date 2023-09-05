@@ -5,9 +5,25 @@
   background-color: burlywood;
 }
 
+.otherHtml,
+.otherBody {
+  background-color: crimson;
+}
+
+.donateMessage {
+  margin-top: 300px;
+  color: white;
+}
+
 .heading {
   text-align: center;
   font-size: 32pt;
+  color: black;
+}
+
+.smallHeading {
+  text-align: center;
+  font-size: 22pt;
   color: black;
 }
 
@@ -34,15 +50,17 @@
 }
 
 .box {
+  margin-left: 20px;
   margin-top: 60px;
-  width: 40%;
-  height: 150px;
+  width: 20%;
+  height: 50px;
   background-color: whitesmoke;
   border: 2px solid black;
   box-shadow: 10px 10px 5px black;
 }
 
 .donateButton {
+  color: white;
   font-size: 12pt;
   position: fixed;
   bottom: 25px;
@@ -50,8 +68,7 @@
   width: 150px;
   height: 50px;
   background-color: crimson;
-  color: black;
-  border: 5px solid white;
+  border: 5px solid black;
   border-radius: 15px;
 }
 
