@@ -84,17 +84,17 @@
 .topic1 {
   position: absolute;
   top: 450px;
-  left: 550px;
+  left: 50px;
 }
 
 .topic2 {
   position: absolute;
   top: 750px;
-  left: 550px;
+  right: 50px;
 }
 
 .topic3 {
   position: absolute;
   top: 1050px;
-  left: 550px;
+  left: 50px;
 }
